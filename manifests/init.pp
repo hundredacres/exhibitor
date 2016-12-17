@@ -1,6 +1,6 @@
 #exhibitor init class
 class exhibitor(
-  $version = '1.5.5',
+  $version = '1.5.6',
   $install_dir = '/opt/exhibitor',
   $conf_dir = '/etc/exhibitor',
   $servers = ['localhost'],
